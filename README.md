@@ -1,5 +1,6 @@
 # Assetto-Timing-Issue-Tracker
-Repository to report bugs and issues with Assetto Timing
+Repository to report bugs and issues with Assetto Timing.
+
 Assetto-Timing is and will remain closed source. 
 
 https://assettotiming.pages.dev/
