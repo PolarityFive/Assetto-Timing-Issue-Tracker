@@ -2,6 +2,8 @@
 Repository to report bugs and issues with Assetto Timing
 Assetto-Timing is and will remain closed source. 
 
+https://assettotiming.pages.dev/
+
 About AssettoTiming
 
 Assetto Timing is a global leaderboard. It keeps track of all times captured and submitted via the corresponding mod. Unlike traditional leaderboards that are tied to specific servers or sessions, Assetto Timing allows you to submit lap times when playing in any server, session, online or single player. No manual submission or account is needed.
