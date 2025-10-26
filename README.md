@@ -37,7 +37,8 @@ The mod collects all data related to your in-game performance such as throttle, 
 The mod only collects steam GUID via the Steam api to uniquely identify drivers and the driver's name to display. No other personal data are collected such as email, IP address, location e.t.c. Even analytics are turned off in the website. An account is not needed to use the mod or view the leaderboard.
 
 Project details
-Frontend: React + TypeScript
-Bundler: Vite
-Backend: Postgres and serverless typescript.
-Mod: Python for capturing, C++ for validation and uploads.
+
+- Frontend: React + TypeScript
+- Bundler: Vite
+- Backend: Postgres and serverless typescript.
+- Mod: Python for capturing, C++ for validation and uploads.
